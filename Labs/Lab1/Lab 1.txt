@@ -1,0 +1,28 @@
+<!-- Doctype html-->
+<html>
+
+            <head>
+                   <title> My First Webpage</title>
+ </head>
+<body>
+
+       <h1> Thomas A. Edison CTE HS </h1>
+       <h2> Web Developer Academy</h2>
+       <h3> 10th Grade</h3>
+       <h4> Lab 1</h4>
+       <h5> Intro to Hyper Text Markup Language</h5>
+       <h6> By Afsana Haque</h6>
+       <p> About yourself, Why are you here? what do you want? 
+           I want to advance my knowledge and learn about new things. I also want to understand more about html and computers.
+           Learning about html would provide to be helpful and a skill that not many people understand. Learning about these new types of things will be a difficult challenge 
+           for me but I would try my best to understand. Having a skill computers and html can help with future careers and endevours.  </p>
+
+
+       <p> the < > is an opening tag while </ > is a closing tag. The head and body tags are to place a header and start a new body paragraph.
+           The h tag are each all headers. The p tags are to start a new paragraph. 
+       </p>
+
+
+
+
+</html>

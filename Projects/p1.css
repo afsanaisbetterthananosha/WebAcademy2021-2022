@@ -1,0 +1,19 @@
+body{
+  background-color:LightSteelBlue;
+  color: navy; 
+}
+
+img{
+  width: 250px;
+  height: 250px;
+  border-style; solid;
+}
+
+img {
+  border: 5px solid #555;
+}
+
+h2 {
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+}

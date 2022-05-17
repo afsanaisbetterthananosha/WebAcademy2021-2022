@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Lab 3</title>
+</head>
+<body>
+
+<h6>HYPERLINKS</h6>
+<h4>by</h4>
+<h5>Afsana Haque</h5>
+
+<p>To create a hyperlink you must use the hyperlink tag than an equal sign. After the equal sign put the link of the 
+website you want to creat a hyperlink for. After that put a > tag on it then write down what you want the hyperlink to say. 
+After that is done put a closing tag.</p>
+
+<a href="http://taehs.org">Click here to visit my HS</a>
+<br>
+<a href="http://www.taehs.org"><img src="taehs.png" width="250px"></a>
+<br>
+
+<a href="https://www.w3schools.com">Click here to visit w3schools</a>
+<br>
+<a href="https://www.w3schools.com"><img src="w3schools.png" width="250px"></a>
+<br> 
+
+
+<a href="https://www.linkedin.com/in/afsanahaque">Click here to visit my linkdln profile</a>
+<br>
+<a href="https://www.linkedin.com/in/afsanahaque"><img src="linkedln.png" width="250px"></a>
+
+</body>
+</html>

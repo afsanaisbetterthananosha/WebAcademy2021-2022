@@ -1,0 +1,51 @@
+
+*{
+ box-sizing: border-box; 
+}
+
+body{
+  background-color: lightseagreen;
+  color: darkblue; 
+}
+
+
+
+
+.topnav{
+background-color: floralwhite;
+overflow: hidden;
+}
+
+
+.topnav a{
+  color: black; 
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+
+
+
+
+
+.header{
+  background-color: lightblue; 
+  padding: 20px;
+  text-allign: right;
+  color:black; 
+}
+.topnav a:hover{
+  background-color: lightcyan; 
+  color: black;
+}
+
+div {border-style: solid;
+background-color:lightgrey} 
+
+.column{
+  float: left;
+  width:33.33%;
+  padding:15px;
+}

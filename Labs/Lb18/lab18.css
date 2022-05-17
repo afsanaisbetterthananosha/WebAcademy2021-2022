@@ -1,0 +1,19 @@
+#box{
+  background-color:#00ffdd;
+  border:solid red 3px;
+  width:75px;
+  height:76px;
+  position:relative;
+  left:200px;
+}
+button{
+  border: double blue 1px ; 
+  background-color:yellow;
+  color:red;
+  position:relative;
+  left:100px;
+}
+button:hover;{
+  border: double blue 1px ; 
+color: yellow;
+}
